@@ -69,4 +69,10 @@ Initially attempted to use tflite-flutter plugin for custom model integration. H
 
 ## Video Demo
 
-[Link to video demonstration to be added]
+[Link to video demonstration](https://github.com/user-attachments/assets/08df628c-6536-47e4-81c1-5a3ccf7239b8)
+
+
+
+
+
+
